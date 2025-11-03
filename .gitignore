@@ -3,3 +3,4 @@ dist/
 .env
 keys/*
 !keys/README.md
+coverage/
